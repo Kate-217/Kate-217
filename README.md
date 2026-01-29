@@ -31,6 +31,23 @@ https://github.com/Kate-217/WSAA-coursework
 https://katespb.pythonanywhere.com/
 
 ---
+### 📐 Applied Statistics Assessment
+**Python | Statistical Analysis | Hypothesis Testing**
+
+A collection of applied statistics tasks implemented in Python, focusing on probability theory and hypothesis testing.  
+The project covers classic statistical experiments and real-world datasets to demonstrate practical statistical reasoning.
+
+Key topics:
+- Permutations and combinations (Lady Tasting Tea experiment)
+- Normal distribution generation and validation (Shapiro–Wilk test)
+- Paired t-test on heart rate data
+- One-way ANOVA and analysis of Type II errors
+- Statistical assumptions and interpretation of results
+
+🔗 Repository:  
+https://github.com/Kate-217/applied_statistics_assessment
+
+---
 
 ### 🐧 Palmer Penguins Data Analysis
 **Python | Exploratory Data Analysis | Statistics**
