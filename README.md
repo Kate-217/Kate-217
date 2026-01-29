@@ -37,22 +37,21 @@ https://katespb.pythonanywhere.com/
 
 Analysis of user behaviour in a food retail mobile app, including funnel analysis and evaluation of an A/A/B experiment testing the impact of a new font on conversion rates.
 
+Key topics:
+- Funnel analysis
+- Hypothesis testing
+- Bonferroni correction
+- Data-driven decision making
+
+🔗 Repository:  
+https://github.com/Kate-217/food_app_ab_test
+
 ---
 
 ### 🐧 Palmer Penguins Data Analysis
 **Python | Exploratory Data Analysis | Statistics**
 
 Exploratory data analysis of the Palmer Penguins dataset, including data cleaning, visualisation, correlation analysis, and hypothesis testing.
-
-🔗 Repository:  
-https://github.com/Kate-217/principles_of_da
-
----
-
-### 🌱 Plant Growth Statistical Analysis
-**Python | Hypothesis Testing | ANOVA**
-
-Statistical analysis of the PlantGrowth dataset, applying t-tests and one-way ANOVA to compare group means and interpret results.
 
 🔗 Repository:  
 https://github.com/Kate-217/principles_of_da
@@ -66,16 +65,6 @@ Exploratory analysis of the Iris dataset, focusing on feature distributions, vis
 
 🔗 Repository:  
 https://github.com/Kate-217/programming_and_scripting
-
-
-Key topics:
-- Funnel analysis
-- Hypothesis testing
-- Bonferroni correction
-- Data-driven decision making
-
-🔗 Repository:  
-https://github.com/Kate-217/food_app_ab_test
 
 ---
 
