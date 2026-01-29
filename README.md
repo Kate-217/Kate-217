@@ -32,22 +32,6 @@ https://katespb.pythonanywhere.com/
 
 ---
 
-### 📊 User Behaviour Analysis & A/A/B Experiment
-**Python | pandas | Statistical Testing**
-
-Analysis of user behaviour in a food retail mobile app, including funnel analysis and evaluation of an A/A/B experiment testing the impact of a new font on conversion rates.
-
-Key topics:
-- Funnel analysis
-- Hypothesis testing
-- Bonferroni correction
-- Data-driven decision making
-
-🔗 Repository:  
-https://github.com/Kate-217/food_app_ab_test
-
----
-
 ### 🐧 Palmer Penguins Data Analysis
 **Python | Exploratory Data Analysis | Statistics**
 
@@ -68,6 +52,38 @@ https://github.com/Kate-217/programming_and_scripting
 
 ---
 
+### 🎮 Video Game Sales Market Analysis
+**Python | Exploratory Data Analysis | Hypothesis Testing**
+
+Market analysis of historical video game sales data (1980–2016) to identify factors influencing commercial success.  
+The project simulates preparing insights for a marketing campaign for an online video game retailer.
+
+Key topics:
+- Exploratory data analysis by platform, genre, and region
+- Regional market comparison (NA, EU, JP)
+- Correlation analysis between review scores and sales
+- Hypothesis testing using t-tests
+
+🔗 Repository:  
+https://github.com/Kate-217/video_game_sales_analysis
+
+---
+
+### 📊 User Behaviour Analysis & A/A/B Experiment
+**Python | pandas | Statistical Testing**
+
+Analysis of user behaviour in a food retail mobile app, including funnel analysis and evaluation of an A/A/B experiment testing the impact of a new font on conversion rates.
+
+Key topics:
+- Funnel analysis
+- Hypothesis testing
+- Bonferroni correction
+- Data-driven decision making
+
+🔗 Repository:  
+https://github.com/Kate-217/food_app_ab_test
+
+---
 ## Skills & Technologies
 
 - **Languages:** Python, SQL
