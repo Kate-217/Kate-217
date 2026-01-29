@@ -37,6 +37,7 @@ https://katespb.pythonanywhere.com/
 
 Analysis of user behaviour in a food retail mobile app, including funnel analysis and evaluation of an A/A/B experiment testing the impact of a new font on conversion rates.
 
+---
 
 ### 🐧 Palmer Penguins Data Analysis
 **Python | Exploratory Data Analysis | Statistics**
